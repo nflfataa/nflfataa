@@ -93,6 +93,6 @@ then wiring them up to APIs and databases.
 
 <div align="center">
 
-Thanks for stopping by. Have a look at the repositories below.
+Hello!
 
-</div> -->
+</div>
